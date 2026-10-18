@@ -1,0 +1,8 @@
+feature,importance
+days_since_last_purchase,0.6115909945470821
+membership_months,0.12848350536955414
+purchase_frequency,0.1250219850286458
+age,0.04154380960467735
+support_interactions,0.04071891811641481
+discount_usage_rate,0.026879742226858468
+total_spending,0.025761045106767428
